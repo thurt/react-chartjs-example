@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "chart.js": "^2.8.0",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "razzle": "3.0.0",
     "react": "16.10.1",
     "react-chartjs-2": "^2.8.0",
